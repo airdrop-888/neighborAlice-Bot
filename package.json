@@ -1,0 +1,16 @@
+{
+  "name": "neighbor-alice-bot",
+  "version": "1.0.0",
+  "description": "Auto Task Bot for My Neighbor Alice Airdrop",
+  "dependencies": {
+    "axios": "^1.9.0",
+    "cfonts": "^3.3.0",
+    "chalk": "^4.1.2",
+    "http-proxy-agent": "^7.0.2",
+    "readline-sync": "^1.4.10",
+    "socks-proxy-agent": "^8.0.5"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}

@@ -1,8 +1,6 @@
-# NeighborAlice-Bot 🌟
+# Neighbor Alice - Auto Clear All Task🌟
 
 Script ini digunakan untuk mengotomatiskan tugas di event airdrop My Neighbor Alice, seperti menampilkan profil pengguna, memeriksa tugas yang tersedia, dan menyelesaikan tugas secara otomatis.
-
-![neighborAlice](https://github.com/user-attachments/assets/placeholder-image.jpg)
 
 ---
 
